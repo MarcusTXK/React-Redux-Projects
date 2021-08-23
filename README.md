@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/50147457/90796008-582dd700-e341-11ea-8ee1-0cc40cef105f.png)
 ---
 # Streams
-* A simple streaming website that allows you to watch streams created by other users.
+* A simple streaming website that allows a user to stream as well as users to watch streams created by other users.
 * When signed in (via Google OAuth 2.0), a user can create a stream. Only the owner of a stream can edit or delete their own stream.
 * Users can stream their screen via Open Broadcaster Software (OBS) to the created stream.
 * Stores data in a [JSON server](https://github.com/typicode/json-server) to emulate backend database.
